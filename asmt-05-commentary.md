@@ -19,7 +19,7 @@ permalink: /asmt-05/commentary/
 
 이 반은 전체적으로 기말에세이용 토픽 자산이 강한 편이다. 메인 페이지의 분류대로 보아도 `민주주의, 사회운동, 표현 규제`, `복지 설계와 분배 정의`, `플랫폼 자본주의와 시장 규제`, `처벌과 소년사법`은 서로 다른 학생 문서들이 한 축 안에서 경쟁하는 주장선을 형성하고 있어, 4개의 핵심 토픽 패키지 후보로 가장 안정적이다.
 
-반대로 `신체 통제와 보호의 윤리`, `발전정책·식량·소비 행동`, `언어와 사회 인식`은 개별 문서로는 흥미롭지만, 현재 상태로는 패키지 내부의 공통 쟁점선이 상대적으로 약하거나 추가 재구성이 필요하다.
+반대로 `신체 통제와 보호의 윤리`, `발전정책·식량·소비 행동`, `언어와 사회 인식`은 느슨한 패키지에 가깝다. 다만 이것이 곧 약한 주제라는 뜻은 아니고, 패키지 전체보다 개별 학생 주제의 생존 가능성을 따로 보는 편이 더 적절하다.
 
 ## 1. 민주주의, 사회운동, 표현 규제
 
@@ -51,11 +51,11 @@ permalink: /asmt-05/commentary/
 
 ### 검증된 대표 참고링크
 
-- `https://journals.sagepub.com/doi/10.1177/0002716293528001002`
-- `https://illinoislawreview.org/wp-content/ilr-content/articles/2015/3/Tsesis.pdf`
-- `https://plato.stanford.edu/entries/freedom-speech/`
-- `https://plato.stanford.edu/entries/hate-speech/`
-- `https://www.hup.harvard.edu/books/9780674416864`
+- https://journals.sagepub.com/doi/10.1177/0002716293528001002
+- https://illinoislawreview.org/wp-content/ilr-content/articles/2015/3/Tsesis.pdf
+- https://plato.stanford.edu/entries/freedom-speech/
+- https://plato.stanford.edu/entries/hate-speech/
+- https://www.hup.harvard.edu/books/9780674416864
 
 ### 패키지 메모
 
@@ -99,13 +99,13 @@ promising이지만, 반드시 하위 축을 좁혀야 한다.
 
 ### 검증된 대표 참고링크
 
-- `https://terpconnect.umd.edu/~dcrocker/Courses/Docs/Singer-Famine%20Affluence%20Morality.pdf`
-- `https://journals.sagepub.com/doi/10.1177/0032329203261095`
-- `https://ideas.repec.org/a/bla/polstu/v45y1997i2p312-326.html`
-- `https://www.aeaweb.org/articles?id=10.1257%2Fjep.32.4.201`
-- `https://www.nber.org/papers/w32779`
-- `https://plato.stanford.edu/entries/meritocracy/`
-- `https://plato.stanford.edu/entries/justice-distributive/`
+- https://terpconnect.umd.edu/~dcrocker/Courses/Docs/Singer-Famine%20Affluence%20Morality.pdf
+- https://journals.sagepub.com/doi/10.1177/0032329203261095
+- https://ideas.repec.org/a/bla/polstu/v45y1997i2p312-326.html
+- https://www.aeaweb.org/articles?id=10.1257%2Fjep.32.4.201
+- https://www.nber.org/papers/w32779
+- https://plato.stanford.edu/entries/meritocracy/
+- https://plato.stanford.edu/entries/justice-distributive/
 
 ### 패키지 메모
 
@@ -153,12 +153,12 @@ promising이지만, 반드시 하위 축을 좁혀야 한다.
 
 ### 검증된 대표 참고링크
 
-- `https://yalebooks.yale.edu/book/9780300262285/nudge/`
-- `https://academic.oup.com/aler/article-abstract/10/2/303/160051`
-- `https://yalelawjournal.org/note/amazons-antitrust-paradox`
-- `https://www.wsgr.com/a/web/bW8aKf3yEkMqwKUwDCRi6D/jacobson-fall23.pdf`
-- `https://global.oup.com/academic/product/humans-as-a-service-9780198797012`
-- `https://link.springer.com/book/10.1057/9780230594180`
+- https://yalebooks.yale.edu/book/9780300262285/nudge/
+- https://academic.oup.com/aler/article-abstract/10/2/303/160051
+- https://yalelawjournal.org/note/amazons-antitrust-paradox
+- https://www.wsgr.com/a/web/bW8aKf3yEkMqwKUwDCRi6D/jacobson-fall23.pdf
+- https://global.oup.com/academic/product/humans-as-a-service-9780198797012
+- https://link.springer.com/book/10.1057/9780230594180
 
 ### 패키지 메모
 
@@ -196,11 +196,11 @@ promising. 핵심 4개 패키지의 유력 후보다.
 
 ### 검증된 대표 참고링크
 
-- `https://www.journals.uchicago.edu/doi/abs/10.1086/259394`
-- `https://www.aeaweb.org/articles?id=10.1257%2Fpol.20210530`
-- `https://ideas.repec.org/a/eee/jeborg/v236y2025ics0167268125002021.html`
-- `https://plato.stanford.edu/entries/legal-punishment/`
-- `https://plato.stanford.edu/entries/justice-retributive/`
+- https://www.journals.uchicago.edu/doi/abs/10.1086/259394
+- https://www.aeaweb.org/articles?id=10.1257%2Fpol.20210530
+- https://ideas.repec.org/a/eee/jeborg/v236y2025ics0167268125002021.html
+- https://plato.stanford.edu/entries/legal-punishment/
+- https://plato.stanford.edu/entries/justice-retributive/
 
 ### 패키지 메모
 
@@ -208,24 +208,12 @@ promising. 핵심 4개 패키지의 유력 후보다.
 
 ## 5. 신체 통제와 보호의 윤리
 
-### 판정
+### 공통 메모
 
-조건부 promising. 한 패키지로 묶기보다는 분리 가능성을 열어 두는 편이 낫다.
+이 분류는 애초에 하나의 큰 패키지로 묶는 데 실패했다고 보기보다, 서로 다른 두 개의 강한 개별 주제가 우연히 같은 표제 아래 놓여 있는 경우에 가깝다. 체벌과 인공자궁은 모두 몸에 대한 개입을 묻지만, 실제 토론에서는 각자 독립 주제로 살아도 전혀 문제없다.
 
-### 왜 애매한가
-
-- 체벌과 인공자궁은 모두 몸에 대한 개입을 다루지만, canonical line은 꽤 다르다.
-- 체벌은 아동권, 훈육, 해악 문제이고, 인공자궁은 재생산 자유, 여성해방, 기술 통치 문제라서 하나의 패키지로 억지 결합하면 쟁점선이 흐려질 수 있다.
-
-### 그래도 살릴 수 있는 방식
-
-- 보호를 명목으로 한 신체 개입은 언제 정당화되는가라는 상위 질문을 세우면 가능하다.
-- 그러나 실제 학생 글쓰기를 생각하면 체벌 또는 인공자궁 중 하나를 독립 주제로 따로 빼는 편이 더 낫다.
-
-### 피해야 할 방식
-
-- 몸과 관련 있다는 이유만으로 같은 토론 안에 넣는 방식
-- 생명윤리 일반론으로 넓혀 학생이 제어할 수 없게 되는 방식
+- 김혜영: `높음`. 체벌의 교육적 효과보다 장기적 해악을 강조하는 논점은, 훈육과 폭력의 경계라는 선명한 질문으로 바로 이어진다. 규범 쟁점도 분명하고 학생 글쓰기에도 적합하다.
+- 최소현: `높음`. 인공자궁을 해방의 기술로 볼지 재생산 통제의 기술로 볼지 묻는 문제는 최근 생명윤리·재생산윤리에서 매우 강한 주제다. 개별 에세이 주제로는 충분히 유망하며, 오히려 패키지 결속보다 개별 주제의 밀도가 장점이다.
 
 ### 정리 필요점
 
@@ -234,9 +222,9 @@ promising. 핵심 4개 패키지의 유력 후보다.
 
 ### 검증된 대표 참고링크
 
-- `https://scholarship.law.duke.edu/lcp/vol73/iss2/3/`
-- `https://utppublishing.com/doi/abs/10.3138/ijfab.13.2.18`
-- `https://research.manchester.ac.uk/en/publications/artificial-wombs-and-the-ectogenesis-conversation-a-misplaced-foc/`
+- https://scholarship.law.duke.edu/lcp/vol73/iss2/3/
+- https://utppublishing.com/doi/abs/10.3138/ijfab.13.2.18
+- https://research.manchester.ac.uk/en/publications/artificial-wombs-and-the-ectogenesis-conversation-a-misplaced-foc/
 
 ### 패키지 메모
 
@@ -244,31 +232,17 @@ promising. 핵심 4개 패키지의 유력 후보다.
 
 ## 6. 발전정책, 식량, 소비 행동
 
-### 판정
+### 공통 메모
 
-현재 상태로는 weak-to-conditional이다.
+이 분류는 하나의 패키지로 억지로 응집시키기보다, 국가개입과 개인행동이라는 두 층위가 함께 들어 있다고 이해하면 된다. 따라서 패키지 자체를 탈락시키기보다, 개별 학생 주제가 어떤 식으로 규범적 질문을 세울 수 있는지를 보는 편이 맞다.
 
-### 왜 약한가
-
-- 식량안보와 녹색소비는 둘 다 정책 문제이지만 실제 논쟁의 층위가 다르다.
-- 홍인표는 발전국가, 시장개입, 성장이라는 거시정책 축이고, 장예진은 태도-행동 격차라는 소비자 행동 축이다.
-- 패키지 내부의 공통 질문이 약해서, 조별 토의에서 다른 강한 축들에 밀릴 가능성이 높다.
-
-### 살릴 수 있는 방식
-
-- 정말 살리고 싶다면 개인의 선택과 국가 설계 중 무엇이 집합적 문제 해결에 더 중요한가라는 상위 질문으로 재구성해야 한다.
-- 그래도 학부 기말에세이 패키지로는 다른 분류보다 힘이 약하다.
-
-### 피해야 할 방식
-
-- 친환경 소비 일반론
-- 정부 개입은 필요하다/불필요하다 수준의 선언
-- 소비행동 연구를 단순 심리학 요약으로 처리하는 방식
+- 홍인표: `중상`. 식량 가격 안정화 같은 국가개입이 성장과 양립 가능한지 묻는 문제는 괜찮다. 다만 잘못하면 경제정책 소개로 흐르므로, 시장 효율성 대 취약계층 보호 또는 발전국가의 정당화처럼 규범 논제를 분명히 세워야 강해진다.
+- 장예진: `중`. 녹색소비의 태도-행동 격차는 흥미롭지만, 그대로는 사회심리 결과 요약으로 끝날 위험이 있다. 개인의 도덕책임이 구조적 제약 앞에서 얼마나 의미가 있는가처럼 철학적 쟁점을 붙이면 살아날 수 있다.
 
 ### 검증된 대표 참고링크
 
-- `https://www.cgdev.org/publication/food-security-and-economic-growth-asian-perspective-working-paper-number-51`
-- `https://link.springer.com/article/10.1007/s10806-005-5485-3`
+- https://www.cgdev.org/publication/food-security-and-economic-growth-asian-perspective-working-paper-number-51
+- https://link.springer.com/article/10.1007/s10806-005-5485-3
 
 ### 패키지 메모
 
@@ -276,20 +250,11 @@ promising. 핵심 4개 패키지의 유력 후보다.
 
 ## 7. 언어와 사회 인식
 
-### 판정
+### 공통 메모
 
-개별 주제로는 흥미롭지만, 패키지로는 약하다.
+이 분류는 패키지 문제라기보다 단독 주제로서의 선명화 문제에 가깝다. 메인 페이지도 윤하늘의 주제를 단독 주제로는 매력 있다고 보고 있으므로, 여기서는 묶기 가능성보다 질문을 얼마나 좁힐 수 있는가가 핵심이다.
 
-### 왜 애매한가
-
-- 주제 자체는 매력적이다. 언어가 사고와 행동을 조직하는가 하는 문제는 오래된 고전 쟁점이면서도 여전히 흥미롭다.
-- 그러나 이 반의 다른 주제들은 공적 제도와 정책 논쟁으로 곧바로 이어지는 데 비해, 이 주제는 상대적으로 추상적이다.
-- 잘 쓰면 좋은 철학 에세이가 되지만, 잘못 쓰면 교양 글 수준으로 떨어지기 쉽다.
-
-### 살릴 수 있는 방식
-
-- 언어는 사고를 결정하는가, 약하게 형성하는가, 거의 독립적인가처럼 논쟁 축을 명확히 해야 한다.
-- 또는 사회적 분류, 낙인, 정체성의 언어정치로 연결해야 수업 전체 맥락과 더 잘 맞는다.
+- 윤하늘: `중상`. 언어가 단순한 표현 수단이 아니라 사고와 실천을 조직한다는 주장은 철학적으로 충분히 유망하다. 다만 일반론은 너무 넓으므로, 언어는 현실 인식을 구성하는가 또는 사회범주를 만드는 언어는 규범적 책임을 지는가처럼 하나의 논점으로 좁혀야 한다.
 
 ### 정리 필요점
 
@@ -297,9 +262,9 @@ promising. 핵심 4개 패키지의 유력 후보다.
 
 ### 검증된 대표 참고링크
 
-- `https://mitpress.mit.edu/9780262230032/language-thought-and-reality/`
-- `https://plato.stanford.edu/entries/linguistics/`
-- `https://plato.stanford.edu/entries/language-thought/`
+- https://mitpress.mit.edu/9780262230032/language-thought-and-reality/
+- https://plato.stanford.edu/entries/linguistics/
+- https://plato.stanford.edu/entries/language-thought/
 
 ### 패키지 메모
 
