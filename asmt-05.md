@@ -104,26 +104,36 @@ permalink: /asmt-05/
 
 ### 요약 표
 
-<table>
+<table class="topic-summary">
+  <colgroup>
+    <col class="topic-col">
+    <col class="members-col">
+    <col class="type-col">
+    <col class="metric-col">
+    <col class="metric-col">
+    <col class="metric-col">
+    <col class="metric-col">
+    <col class="memo-col">
+  </colgroup>
   <thead>
     <tr>
       <th>주제군</th>
       <th>포함 주제(학생)</th>
       <th>성격</th>
-      <th><small>확장<br>가능성</small></th>
-      <th><small>문헌<br>탐색</small></th>
-      <th><small>쟁점<br>명료성</small></th>
-      <th><small>주제<br>매력</small></th>
+      <th class="metric-col"><small>확장<br>가능성</small></th>
+      <th class="metric-col"><small>문헌<br>탐색</small></th>
+      <th class="metric-col"><small>쟁점<br>명료성</small></th>
+      <th class="metric-col"><small>주제<br>매력</small></th>
       <th>토의 메모</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>민주주의, 사회운동, 표현 규제</td><td>김지수, 정윤환, 강서연</td><td>규범정치철학, 헌법, 민주주의 이론</td><td align="center">상</td><td align="center">상</td><td align="center">상</td><td align="center">상</td><td>찬반 구도가 선명하고 수업 토의와 바로 연결되므로 끝까지 살아남기 좋은 축이다.</td></tr>
-    <tr><td>복지 설계와 분배 정의</td><td>이선우, 정지호, 박지예, 임나형, 정윤석, 임지우</td><td>정의론, 복지국가론, 정책평가</td><td align="center">상</td><td align="center">상</td><td align="center">중상</td><td align="center">중상</td><td>좋은 주제가 많지만 범위가 넓어, 남기려면 보편/선별 또는 기본소득처럼 초점을 좁히는 편이 좋다.</td></tr>
-    <tr><td>플랫폼 자본주의와 시장 규제</td><td>조의현, 정유민, 신승연, 최유진, 박서진</td><td>정치경제, 반독점, 노동규제</td><td align="center">상</td><td align="center">상</td><td align="center">중상</td><td align="center">상</td><td>현재성이 강하고 사례가 풍부해 학생들이 흥미를 느끼기 쉽다.</td></tr>
-    <tr><td>처벌과 소년사법</td><td>김예빈, 김혜원, 김태희</td><td>형벌이론, 실증정책, 법철학</td><td align="center">중상</td><td align="center">상</td><td align="center">상</td><td align="center">상</td><td>처벌과 예방, 교화의 충돌이 뚜렷해서 논증 구조를 세우기 쉽다.</td></tr>
-    <tr><td>신체 통제와 보호의 윤리</td><td>김혜영, 최소현</td><td>가족윤리, 생명윤리, 재생산 윤리</td><td align="center">중상</td><td align="center">중상</td><td align="center">중상</td><td align="center">상</td><td>체벌과 인공자궁은 모두 몸에 대한 개입을 묻지만, 필요하면 각자 독립 주제로 남겨도 좋다.</td></tr>
-    <tr><td>발전정책, 식량, 소비 행동</td><td>홍인표, 장예진</td><td>발전경제, 정책평가, 행동연구</td><td align="center">중</td><td align="center">중상</td><td align="center">중</td><td align="center">중</td><td>흥미는 있으나 토의에서 살아남으려면 쟁점을 더 날카롭게 재구성할 필요가 있다.</td></tr>
-    <tr><td>언어와 사회 인식</td><td>윤하늘</td><td>사회이론, 언어철학</td><td align="center">중상</td><td align="center">중상</td><td align="center">중</td><td align="center">중상</td><td>단독 주제로는 매력 있지만, 다른 정책 주제들에 비해 논쟁축을 더 선명하게 다듬어야 한다.</td></tr>
+    <tr><td>민주주의, 사회운동, 표현 규제</td><td>김지수, 정윤환, 강서연</td><td>규범정치철학, 헌법, 민주주의 이론</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">상</td><td>찬반 구도가 선명하고 수업 토의와 바로 연결되므로 끝까지 살아남기 좋은 축이다.</td></tr>
+    <tr><td>복지 설계와 분배 정의</td><td>이선우, 정지호, 박지예, 임나형, 정윤석, 임지우</td><td>정의론, 복지국가론, 정책평가</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">중상</td><td class="metric-col">중상</td><td>좋은 주제가 많지만 범위가 넓어, 남기려면 보편/선별 또는 기본소득처럼 초점을 좁히는 편이 좋다.</td></tr>
+    <tr><td>플랫폼 자본주의와 시장 규제</td><td>조의현, 정유민, 신승연, 최유진, 박서진</td><td>정치경제, 반독점, 노동규제</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">중상</td><td class="metric-col">상</td><td>현재성이 강하고 사례가 풍부해 학생들이 흥미를 느끼기 쉽다.</td></tr>
+    <tr><td>처벌과 소년사법</td><td>김예빈, 김혜원, 김태희</td><td>형벌이론, 실증정책, 법철학</td><td class="metric-col">중상</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">상</td><td>처벌과 예방, 교화의 충돌이 뚜렷해서 논증 구조를 세우기 쉽다.</td></tr>
+    <tr><td>신체 통제와 보호의 윤리</td><td>김혜영, 최소현</td><td>가족윤리, 생명윤리, 재생산 윤리</td><td class="metric-col">중상</td><td class="metric-col">중상</td><td class="metric-col">중상</td><td class="metric-col">상</td><td>체벌과 인공자궁은 모두 몸에 대한 개입을 묻지만, 필요하면 각자 독립 주제로 남겨도 좋다.</td></tr>
+    <tr><td>발전정책, 식량, 소비 행동</td><td>홍인표, 장예진</td><td>발전경제, 정책평가, 행동연구</td><td class="metric-col">중</td><td class="metric-col">중상</td><td class="metric-col">중</td><td class="metric-col">중</td><td>흥미는 있으나 토의에서 살아남으려면 쟁점을 더 날카롭게 재구성할 필요가 있다.</td></tr>
+    <tr><td>언어와 사회 인식</td><td>윤하늘</td><td>사회이론, 언어철학</td><td class="metric-col">중상</td><td class="metric-col">중상</td><td class="metric-col">중</td><td class="metric-col">중상</td><td>단독 주제로는 매력 있지만, 다른 정책 주제들에 비해 논쟁축을 더 선명하게 다듬어야 한다.</td></tr>
   </tbody>
 </table>
